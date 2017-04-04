@@ -40,6 +40,14 @@ http://www.pps.jussieu.fr/~treinen/unif/
 Based on the number and quality of submissions we will decide whether
 to organize a special journal issue.
 
+** Important Dates **
+
+Paper submission: June 21st (11pm59 CET)
+
+Notification of acceptance: July 21st
+
+Workshop: September 3rd 
+
 ** Program Committee **
 
 Franz Baader (TU Dresden)
