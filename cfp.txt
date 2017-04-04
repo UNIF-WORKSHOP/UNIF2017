@@ -1,0 +1,69 @@
+Call for Papers: UNIF 2017 -- FSCD workshop
+
+Website: https://unif-workshop.github.io/UNIF2017/
+
+The 31st International Workshop on Unification is the 31st event in a
+series of international meetings devoted to unification theory and its
+applications.  Unification is concerned with the problem of making two
+terms equal, finding solutions for equations, or making formulas
+equivalent.  It is a fundamental process used in a number of fields of
+computer science, including automated reasoning, term rewriting, logic
+programming, natural language processing, program analysis, types, etc.
+
+The International Workshop on Unification (UNIF) is a yearly forum for
+researchers in unification theory and related fields to meet old and
+new colleagues, to present recent (even unfinished) work, and to
+discuss new ideas and trends.  It is also a good opportunity for young
+researchers and scientists working in related areas to get an overview
+of the state of the art in unification theory.  The workshop will be
+hosted by the 2nd tInternational Conference on Formal Structures for
+Computation and Deduction (FSCD, Oxford, September 2017)
+
+** Submission instructions **
+
+Following the tradition of UNIF, we call for submissions of abstracts
+(5 pages) in EasyChair style, to be submitted electronically as PDF
+files through the EasyChair submission site:
+
+https://easychair.org/conferences/?conf=unif2017
+
+Abstracts will be evaluated by the Programme Committee (if necessary
+with support from external reviewers) regarding their significance for
+the workshop.
+
+Accepted abstracts will be presented at the workshop and included in
+the informal proceedings of the workshop, available in printed form at
+the workshop and in electronic form from the UNIF homepage:
+
+http://www.pps.jussieu.fr/~treinen/unif/
+
+Based on the number and quality of submissions we will decide whether
+to organize a special journal issue.
+
+** Program Committee **
+
+Franz Baader (TU Dresden)
+Iliano Cervesato (CMU)
+Santiago Escobar (TU Valencia) 
+Maribel Fern&aacutendez (KCL)
+Silvio Ghilardi (Università degli Studi di Milano)
+Artur Je&#380 (University of Wrocław)
+Konstantin Korovin (Manchester University)
+Temur Kutsia (Johannes Kepler University Linz)
+Jordi Levy (IIIA - CSIC)
+Andrew Marshall (University of Mary Washington)
+Catherine Meadows (NRL)
+Barbara Morawska (TU Dresden)
+Paliath Narendran (University at Albany-SUNY)
+Jan Otop (University of Wrocław)
+Christophe Ringeissen (LORIA-INRIA)
+Manfred Schmidt-Schauss (Goethe-University Frankfurt)
+Mateu Villaret (Universitat de Girona)
+
+** Organizers **
+
+Adrià Gascón (Warwick University/Alan Turing Institute)
+agascon@turing.ac.uk
+
+Chris Lynch (Clarkson University)
+clynch@clarkson.edu
