@@ -16,7 +16,7 @@ new colleagues, to present recent (even unfinished) work, and to
 discuss new ideas and trends.  It is also a good opportunity for young
 researchers and scientists working in related areas to get an overview
 of the state of the art in unification theory.  The workshop will be
-hosted by the 2nd tInternational Conference on Formal Structures for
+hosted by the 2nd International Conference on Formal Structures for
 Computation and Deduction (FSCD, Oxford, September 2017)
 
 ** Submission instructions **
@@ -53,9 +53,9 @@ Workshop: September 3rd
 Franz Baader (TU Dresden)
 Iliano Cervesato (CMU)
 Santiago Escobar (TU Valencia) 
-Maribel Fern&aacutendez (KCL)
+Maribel Fernández (KCL)
 Silvio Ghilardi (Università degli Studi di Milano)
-Artur Je&#380 (University of Wrocław)
+Artur Jeż (University of Wrocław)
 Konstantin Korovin (Manchester University)
 Temur Kutsia (Johannes Kepler University Linz)
 Jordi Levy (IIIA - CSIC)
