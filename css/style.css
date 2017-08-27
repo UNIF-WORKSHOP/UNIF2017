@@ -335,6 +335,11 @@
             .hiddenRow {
                 padding: 0 !important;
             }
+
+	    .link-paper {
+                color: white;
+                font-weight: 400;
+            }
             
             .btn {
                 text-transform: uppercase;
